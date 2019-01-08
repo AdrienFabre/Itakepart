@@ -1,3 +1,3 @@
 #Itakepart
 
-This is an experiment, more is coming.
+This is an experiment.
